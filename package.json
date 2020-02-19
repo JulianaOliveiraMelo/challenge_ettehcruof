@@ -1,0 +1,23 @@
+{
+  "name": "challenge_fourchttp",
+  "version": "1.0.0",
+  "description": "Hier, nous avons créé le jeu de la fourchette inversé :upside_down_face: grâce aux fonctionnalités du mystérieux `readline`. Aujourd'hui, nous allons le refaire en version HTTP. La logique de programmation du jeu est la même, mais la nouveauté se situe au niveau de la mise en place du serveur HTTP qui restera actif tout au long de la partie. Pour rappel, l'utilisateur décide d'un nombre entre 1 et 100 et c'est à votre programme de le trouver.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianaOliveiraMelo/challenge_ettehcruof"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Zenith/s03e02-challenge-fourchttp-jpruliere/issues"
+  },
+  "homepage": "https://github.com/JulianaOliveiraMelo/challenge_ettehcruof#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pretty": "^2.0.0"
+  }
+}
